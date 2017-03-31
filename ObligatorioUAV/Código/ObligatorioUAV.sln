@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UAVLogica", "UAVLogica\UAVLogica.csproj", "{1747E124-DC87-4222-9DA8-A8E28E8BDF8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UAVInterfaz", "WindowsFormsApplication1\UAVInterfaz.csproj", "{4DDAFCB5-BDE9-4BF0-A265-13843566967F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistencia", "Persistencia\Persistencia.csproj", "{08B2D9FB-A1C5-43C7-8898-C389CBF408F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersistenciaImp", "PersistenciaImp\PersistenciaImp.csproj", "{C1128A8C-FC30-4F33-BFEE-A9ED1E42C418}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1747E124-DC87-4222-9DA8-A8E28E8BDF8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1747E124-DC87-4222-9DA8-A8E28E8BDF8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1747E124-DC87-4222-9DA8-A8E28E8BDF8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1747E124-DC87-4222-9DA8-A8E28E8BDF8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DDAFCB5-BDE9-4BF0-A265-13843566967F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DDAFCB5-BDE9-4BF0-A265-13843566967F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DDAFCB5-BDE9-4BF0-A265-13843566967F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DDAFCB5-BDE9-4BF0-A265-13843566967F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08B2D9FB-A1C5-43C7-8898-C389CBF408F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08B2D9FB-A1C5-43C7-8898-C389CBF408F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08B2D9FB-A1C5-43C7-8898-C389CBF408F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08B2D9FB-A1C5-43C7-8898-C389CBF408F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1128A8C-FC30-4F33-BFEE-A9ED1E42C418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1128A8C-FC30-4F33-BFEE-A9ED1E42C418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1128A8C-FC30-4F33-BFEE-A9ED1E42C418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1128A8C-FC30-4F33-BFEE-A9ED1E42C418}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4DDAFCB5-BDE9-4BF0-A265-13843566967F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>WindowsFormsApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdministrarComp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdministrarComp.Designer.cs">
+      <DependentUpon>AdministrarComp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdministrarDiseño.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdministrarDiseño.Designer.cs">
+      <DependentUpon>AdministrarDiseño.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdministrarDron.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdministrarDron.Designer.cs">
+      <DependentUpon>AdministrarDron.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarComp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarComp.Designer.cs">
+      <DependentUpon>AgregarComp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarDron.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarDron.Designer.cs">
+      <DependentUpon>AgregarDron.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarPieza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarPieza.Designer.cs">
+      <DependentUpon>AgregarPieza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdministrarPieza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdministrarPieza.Designer.cs">
+      <DependentUpon>AdministrarPieza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConfigurarAlarmas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConfigurarAlarmas.Designer.cs">
+      <DependentUpon>ConfigurarAlarmas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarDiseño.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarDiseño.Designer.cs">
+      <DependentUpon>AgregarDiseño.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsolaAdministrativa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsolaAdministrativa.Designer.cs">
+      <DependentUpon>ConsolaAdministrativa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InicioSimulacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InicioSimulacion.Designer.cs">
+      <DependentUpon>InicioSimulacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Piloto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Piloto.Designer.cs">
+      <DependentUpon>Piloto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporte.Designer.cs">
+      <DependentUpon>Reporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VerComponente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VerComponente.Designer.cs">
+      <DependentUpon>VerComponente.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdministrarComp.resx">
+      <DependentUpon>AdministrarComp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdministrarDiseño.resx">
+      <DependentUpon>AdministrarDiseño.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdministrarDron.resx">
+      <DependentUpon>AdministrarDron.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarComp.resx">
+      <DependentUpon>AgregarComp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarDron.resx">
+      <DependentUpon>AgregarDron.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarPieza.resx">
+      <DependentUpon>AgregarPieza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdministrarPieza.resx">
+      <DependentUpon>AdministrarPieza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConfigurarAlarmas.resx">
+      <DependentUpon>ConfigurarAlarmas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarDiseño.resx">
+      <DependentUpon>AgregarDiseño.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsolaAdministrativa.resx">
+      <DependentUpon>ConsolaAdministrativa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InicioSimulacion.resx">
+      <DependentUpon>InicioSimulacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Piloto.resx">
+      <DependentUpon>Piloto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte.resx">
+      <DependentUpon>Reporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VerComponente.resx">
+      <DependentUpon>VerComponente.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drone.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PersistenciaImp\PersistenciaImp.csproj">
+      <Project>{c1128a8c-fc30-4f33-bfee-a9ed1e42c418}</Project>
+      <Name>PersistenciaImp</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Persistencia\Persistencia.csproj">
+      <Project>{08b2d9fb-a1c5-43c7-8898-c389cbf408f0}</Project>
+      <Name>Persistencia</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UAVLogica\UAVLogica.csproj">
+      <Project>{1747e124-dc87-4222-9da8-a8e28e8bdf8b}</Project>
+      <Name>UAVLogica</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1411977991_Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1411978217_Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1411978217_Add1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1411979194_Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1411979862_Streamline-22-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1411979916_Pencil-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1411981572_Search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1411981930_Synchronize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconodrone.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\siren.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1412316611_reports.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\siren1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warning1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="siren.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\important.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

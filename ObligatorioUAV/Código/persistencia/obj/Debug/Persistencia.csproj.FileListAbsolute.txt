@@ -1,0 +1,22 @@
+C:\Users\Caro\Desktop\ObligatorioUAV\Código\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Caro\Desktop\ObligatorioUAV\Código\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV\Código\Persistencia\bin\Debug\UAVLogica.dll
+C:\Users\Caro\Desktop\ObligatorioUAV\Código\Persistencia\bin\Debug\UAVLogica.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV\Código\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Caro\Desktop\ObligatorioUAV\Código\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Caro\Desktop\ObligatorioUAV\Código\Persistencia\obj\Debug\Persistencia.pdb
+G:\uav 15 de nov\ObligatorioUAV\Código\Persistencia\bin\Debug\Persistencia.dll
+G:\uav 15 de nov\ObligatorioUAV\Código\Persistencia\bin\Debug\Persistencia.pdb
+G:\uav 15 de nov\ObligatorioUAV\Código\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+G:\uav 15 de nov\ObligatorioUAV\Código\Persistencia\obj\Debug\Persistencia.dll
+G:\uav 15 de nov\ObligatorioUAV\Código\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV DIego\ObligatorioUAV\Código\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Caro\Desktop\ObligatorioUAV DIego\ObligatorioUAV\Código\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV DIego\ObligatorioUAV\Código\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Caro\Desktop\ObligatorioUAV DIego\ObligatorioUAV\Código\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Caro\Desktop\ObligatorioUAV DIego\ObligatorioUAV\Código\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\Código\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\Código\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\Código\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\Código\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\Código\Persistencia\obj\Debug\Persistencia.pdb

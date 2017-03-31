@@ -1,0 +1,68 @@
+C:\Users\Caro\Desktop\UAVLogica\UAVLogica\obj\Debug\UAVLogica.csprojResolveAssemblyReference.cache
+C:\Users\Caro\Desktop\UAVLogica\UAVLogica\bin\Debug\UAVLogica.dll
+C:\Users\Caro\Desktop\UAVLogica\UAVLogica\bin\Debug\UAVLogica.pdb
+C:\Users\Caro\Desktop\UAVLogica\UAVLogica\obj\Debug\UAVLogica.dll
+C:\Users\Caro\Desktop\UAVLogica\UAVLogica\obj\Debug\UAVLogica.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\UAVLogica\bin\Debug\UAVLogica.dll
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\UAVLogica\bin\Debug\UAVLogica.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\UAVLogica\obj\Debug\UAVLogica.dll
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\UAVLogica\obj\Debug\UAVLogica.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\UAVLogica\obj\Debug\UAVLogica.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ObligatorioUAV\ObligatorioUAV\UAVLogica\bin\Debug\UAVLogica.dll
+C:\Users\user\Desktop\ObligatorioUAV\ObligatorioUAV\UAVLogica\bin\Debug\UAVLogica.pdb
+C:\Users\user\Desktop\ObligatorioUAV\ObligatorioUAV\UAVLogica\obj\Debug\UAVLogica.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ObligatorioUAV\ObligatorioUAV\UAVLogica\obj\Debug\UAVLogica.dll
+C:\Users\user\Desktop\ObligatorioUAV\ObligatorioUAV\UAVLogica\obj\Debug\UAVLogica.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\UAVLogica\bin\Debug\UAVLogica.dll
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\UAVLogica\bin\Debug\UAVLogica.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\UAVLogica\obj\Debug\UAVLogica.csprojResolveAssemblyReference.cache
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\UAVLogica\obj\Debug\UAVLogica.dll
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\UAVLogica\obj\Debug\UAVLogica.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV_1_10\ObligatorioUAV\ObligatorioUAV\UAVLogica\bin\Debug\UAVLogica.dll
+C:\Users\Caro\Desktop\ObligatorioUAV_1_10\ObligatorioUAV\ObligatorioUAV\UAVLogica\bin\Debug\UAVLogica.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV_1_10\ObligatorioUAV\ObligatorioUAV\UAVLogica\obj\Debug\UAVLogica.csprojResolveAssemblyReference.cache
+C:\Users\Caro\Desktop\ObligatorioUAV_1_10\ObligatorioUAV\ObligatorioUAV\UAVLogica\obj\Debug\UAVLogica.dll
+C:\Users\Caro\Desktop\ObligatorioUAV_1_10\ObligatorioUAV\ObligatorioUAV\UAVLogica\obj\Debug\UAVLogica.pdb
+C:\Users\alumnoFI\Downloads\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\UAVLogica\bin\Debug\UAVLogica.dll
+C:\Users\alumnoFI\Downloads\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\UAVLogica\bin\Debug\UAVLogica.pdb
+C:\Users\alumnoFI\Downloads\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\UAVLogica\obj\Debug\UAVLogica.csprojResolveAssemblyReference.cache
+C:\Users\alumnoFI\Downloads\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\UAVLogica\obj\Debug\UAVLogica.dll
+C:\Users\alumnoFI\Downloads\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\UAVLogica\obj\Debug\UAVLogica.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\UAVLogica\bin\Debug\UAVLogica.dll
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\UAVLogica\bin\Debug\UAVLogica.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\UAVLogica\obj\Debug\UAVLogica.dll
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\UAVLogica\obj\Debug\UAVLogica.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\ObligatorioUAV\UAVLogica\obj\Debug\UAVLogica.csprojResolveAssemblyReference.cache
+C:\Users\Caro\Desktop\ObligatorioUAV\Código\UAVLogica\bin\Debug\UAVLogica.dll
+C:\Users\Caro\Desktop\ObligatorioUAV\Código\UAVLogica\bin\Debug\UAVLogica.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV\Código\UAVLogica\obj\Debug\UAVLogica.dll
+C:\Users\Caro\Desktop\ObligatorioUAV\Código\UAVLogica\obj\Debug\UAVLogica.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV\Código\UAVLogica\obj\Debug\UAVLogica.csprojResolveAssemblyReference.cache
+G:\uav 15 de nov\ObligatorioUAV\Código\UAVLogica\bin\Debug\UAVLogica.dll
+G:\uav 15 de nov\ObligatorioUAV\Código\UAVLogica\bin\Debug\UAVLogica.pdb
+G:\uav 15 de nov\ObligatorioUAV\Código\UAVLogica\bin\Debug\Persistencia.dll
+G:\uav 15 de nov\ObligatorioUAV\Código\UAVLogica\bin\Debug\Persistencia.pdb
+G:\uav 15 de nov\ObligatorioUAV\Código\UAVLogica\obj\Debug\UAVLogica.csprojResolveAssemblyReference.cache
+G:\uav 15 de nov\ObligatorioUAV\Código\UAVLogica\obj\Debug\UAVLogica.dll
+G:\uav 15 de nov\ObligatorioUAV\Código\UAVLogica\obj\Debug\UAVLogica.pdb
+C:\Users\user\Desktop\ObligatorioUAV\Código\UAVLogica\bin\Debug\UAVLogica.dll
+C:\Users\user\Desktop\ObligatorioUAV\Código\UAVLogica\bin\Debug\UAVLogica.pdb
+C:\Users\user\Desktop\ObligatorioUAV\Código\UAVLogica\bin\Debug\Persistencia.dll
+C:\Users\user\Desktop\ObligatorioUAV\Código\UAVLogica\bin\Debug\Persistencia.pdb
+C:\Users\user\Desktop\ObligatorioUAV\Código\UAVLogica\obj\Debug\UAVLogica.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ObligatorioUAV\Código\UAVLogica\obj\Debug\UAVLogica.dll
+C:\Users\user\Desktop\ObligatorioUAV\Código\UAVLogica\obj\Debug\UAVLogica.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV DIego\ObligatorioUAV\Código\UAVLogica\bin\Debug\UAVLogica.dll
+C:\Users\Caro\Desktop\ObligatorioUAV DIego\ObligatorioUAV\Código\UAVLogica\bin\Debug\UAVLogica.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV DIego\ObligatorioUAV\Código\UAVLogica\bin\Debug\Persistencia.dll
+C:\Users\Caro\Desktop\ObligatorioUAV DIego\ObligatorioUAV\Código\UAVLogica\bin\Debug\Persistencia.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV DIego\ObligatorioUAV\Código\UAVLogica\obj\Debug\UAVLogica.csprojResolveAssemblyReference.cache
+C:\Users\Caro\Desktop\ObligatorioUAV DIego\ObligatorioUAV\Código\UAVLogica\obj\Debug\UAVLogica.dll
+C:\Users\Caro\Desktop\ObligatorioUAV DIego\ObligatorioUAV\Código\UAVLogica\obj\Debug\UAVLogica.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\Código\UAVLogica\bin\Debug\UAVLogica.dll
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\Código\UAVLogica\bin\Debug\UAVLogica.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\Código\UAVLogica\bin\Debug\Persistencia.dll
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\Código\UAVLogica\bin\Debug\Persistencia.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\Código\UAVLogica\obj\Debug\UAVLogica.csprojResolveAssemblyReference.cache
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\Código\UAVLogica\obj\Debug\UAVLogica.dll
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\Código\UAVLogica\obj\Debug\UAVLogica.pdb

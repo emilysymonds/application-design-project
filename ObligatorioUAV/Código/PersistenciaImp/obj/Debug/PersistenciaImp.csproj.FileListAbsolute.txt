@@ -1,0 +1,28 @@
+G:\uav 15 de nov\ObligatorioUAV\Código\PersistenciaImp\obj\Debug\PersistenciaImp.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ObligatorioUAV\Código\PersistenciaImp\obj\Debug\PersistenciaImp.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ObligatorioUAV\Código\PersistenciaImp\bin\Debug\PersistenciaImp.dll
+C:\Users\user\Desktop\ObligatorioUAV\Código\PersistenciaImp\bin\Debug\PersistenciaImp.pdb
+C:\Users\user\Desktop\ObligatorioUAV\Código\PersistenciaImp\bin\Debug\Persistencia.dll
+C:\Users\user\Desktop\ObligatorioUAV\Código\PersistenciaImp\bin\Debug\UAVLogica.dll
+C:\Users\user\Desktop\ObligatorioUAV\Código\PersistenciaImp\bin\Debug\Persistencia.pdb
+C:\Users\user\Desktop\ObligatorioUAV\Código\PersistenciaImp\bin\Debug\UAVLogica.pdb
+C:\Users\user\Desktop\ObligatorioUAV\Código\PersistenciaImp\obj\Debug\PersistenciaImp.dll
+C:\Users\user\Desktop\ObligatorioUAV\Código\PersistenciaImp\obj\Debug\PersistenciaImp.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV DIego\ObligatorioUAV\Código\PersistenciaImp\bin\Debug\PersistenciaImp.dll
+C:\Users\Caro\Desktop\ObligatorioUAV DIego\ObligatorioUAV\Código\PersistenciaImp\bin\Debug\PersistenciaImp.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV DIego\ObligatorioUAV\Código\PersistenciaImp\bin\Debug\Persistencia.dll
+C:\Users\Caro\Desktop\ObligatorioUAV DIego\ObligatorioUAV\Código\PersistenciaImp\bin\Debug\UAVLogica.dll
+C:\Users\Caro\Desktop\ObligatorioUAV DIego\ObligatorioUAV\Código\PersistenciaImp\bin\Debug\Persistencia.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV DIego\ObligatorioUAV\Código\PersistenciaImp\bin\Debug\UAVLogica.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV DIego\ObligatorioUAV\Código\PersistenciaImp\obj\Debug\PersistenciaImp.csprojResolveAssemblyReference.cache
+C:\Users\Caro\Desktop\ObligatorioUAV DIego\ObligatorioUAV\Código\PersistenciaImp\obj\Debug\PersistenciaImp.dll
+C:\Users\Caro\Desktop\ObligatorioUAV DIego\ObligatorioUAV\Código\PersistenciaImp\obj\Debug\PersistenciaImp.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\Código\PersistenciaImp\bin\Debug\PersistenciaImp.dll
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\Código\PersistenciaImp\bin\Debug\PersistenciaImp.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\Código\PersistenciaImp\bin\Debug\Persistencia.dll
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\Código\PersistenciaImp\bin\Debug\UAVLogica.dll
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\Código\PersistenciaImp\bin\Debug\Persistencia.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\Código\PersistenciaImp\bin\Debug\UAVLogica.pdb
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\Código\PersistenciaImp\obj\Debug\PersistenciaImp.csprojResolveAssemblyReference.cache
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\Código\PersistenciaImp\obj\Debug\PersistenciaImp.dll
+C:\Users\Caro\Desktop\ObligatorioUAV\ObligatorioUAV\Código\PersistenciaImp\obj\Debug\PersistenciaImp.pdb
